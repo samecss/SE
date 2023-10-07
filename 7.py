@@ -1,0 +1,1 @@
+print("Длина", len("Hello World"))
