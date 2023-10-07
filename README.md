@@ -77,9 +77,6 @@ def count_triangle_area(a, b, c):
     return round(area, 1)
 
 
-for onelist in lists:
-    onelist.sort()
-
 min_a, min_b, min_c = min(lists[0]), min(lists[1]), min(lists[2])
 max_a, max_b, max_c = max(lists[0]), max(lists[1]), max(lists[2])
 
