@@ -64,8 +64,8 @@ else:
 ```
 
 ### Результат
-![Консоль](https://github.com/samecss/SE/blob/c1c5676129afa4c46069122373c3ec5dad3e2296/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/png3.1.)
-![Консоль](https://github.com/samecss/SE/blob/c1c5676129afa4c46069122373c3ec5dad3e2296/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/png3.2.)
+![Консоль](https://github.com/samecss/SE/blob/8e770021e0f840335e7c7a50f5ca30c58bc2229b/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/3.1.png)
+![Консоль](https://github.com/samecss/SE/blob/8e770021e0f840335e7c7a50f5ca30c58bc2229b/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/3.2.png)
 
 ## Выводы
 Выполняя задание я узнал как работает условный оператор if-elif-else
