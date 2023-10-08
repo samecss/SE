@@ -48,7 +48,7 @@ if __name__ == "__main__":
 ```
 
 ### Результат
-![Консоль]()
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/1.png)
 
 ## Выводы
 Выполняя задание я научился создавать и использовать декоратор, подходящий к любой функции
@@ -69,7 +69,7 @@ for file in ["empty.txt", "spending.txt"]:
 ```
 
 ### Результат
-![Консоль]()
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/2.png)
 
 ## Выводы
 Выполняя задание я научился вызывать исключения и выводить сообщение об этой ошибке, также использовать метод strip для корректности проверки является ли файл пустым, но с оставшимися пробелами
@@ -91,7 +91,9 @@ if __name__ == "__main__":
 ```
 
 ### Результат
-![Консоль]()
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/3.1.png)
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/3.2.png)
+
 
 ## Выводы
 Выполняя задание я научился вызывать исключения для проверки информации, поступающей с клавиатуры, и если необходимо, то возвращать сообщение об ошибке
@@ -154,7 +156,9 @@ get_bird_description()
 ```
 
 ### Результат
-![Консоль]()
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.1.png)
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.2.png)
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/4.3.png)
 
 ## Выводы
 Выполняя задание я научился создавать декораторы и использовать их в коде с функциями, передавать другие функции в качестве аргумента
@@ -219,7 +223,8 @@ get_bird_description()
 ```
 
 ### Результат
-![Консоль]()
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/5.1.png)
+![Консоль](https://github.com/samecss/SE/blob/e495faec9cb16aaaa3c4d0cf3a0650d1ee6edb41/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/5.2.png)
 
 ## Выводы
 Выполняя задание я научился создавать исключения и применять их в коде, также использовать try/catch для их обработки и вывода сообщения
