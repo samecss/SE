@@ -104,7 +104,9 @@ print("Количество строк:", num_lines)
 with open("4.txt", "r") as f:
     bad_words = f.read().split()
 
-string = "Hello, world! Python IS the programming language of thE future. My EMAIL is....PYTHON is awesome!!!!".split()
+string = '''Hello, world! Python IS the programming language of thE future. My
+EMAIL is....
+PYTHON is awesome!!!!'''.split()
 
 final_string = ""
 for word in string:
